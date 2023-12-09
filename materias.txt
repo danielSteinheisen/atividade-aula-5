@@ -1,0 +1,5 @@
+portugues
+matematica
+ciencias
+geografia
+filosofia

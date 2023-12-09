@@ -1,0 +1,5 @@
+lapis
+caneta
+borracha
+caderno
+apontador
